@@ -15,7 +15,7 @@ import java.util.List;
 import static org.springframework.http.HttpStatus.NOT_FOUND;
 
 /**
- * REST controller for managing te productcatalog
+ * REST controller for managing the productcatalog
  * Provides endpoints to retrieve, add, and report on products
  * Configured to allow cross-origin requests from the React frontend
  */
